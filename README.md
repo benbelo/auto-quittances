@@ -17,7 +17,7 @@ export PATH="$PATH:/Library/TeX/texbin"
 - `generate_quittance.py` -> Script de génération
 - `signature.png` -> Signature du proprio (vous)
 
-## Utilisation
+## Utilisation du script
 
 ```bash
 # Quittance du mois courant (paiement au 12, date de signature du jour)
